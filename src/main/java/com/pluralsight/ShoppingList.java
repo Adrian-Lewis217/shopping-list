@@ -2,7 +2,8 @@ package com.pluralsight;
 
 public class ShoppingList {
     public static void main(String[] args) {
-        System.out.println("Chicken Breast");
+        System.out.println("My Shopping List");
+        System.out.println("2 Chicken Breast");
         System.out.println("2 Green Bell Peppers");
         System.out.println("Bag of Sweet Onions");
         System.out.println("Yogurt");
